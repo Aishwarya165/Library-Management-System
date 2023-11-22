@@ -255,7 +255,7 @@ API’s BASED ON ROLES:
 
 &nbsp; VIDEOS:
 
-&emsp; * [Build A Node.js API Authentication With JWT Tutorial | Joi Validation] (https://www.youtube.com/watch?v=2jqok-WgelI)
+&emsp; * [Build A Node.js API Authentication With JWT Tutorial, Joi Validation](https://www.youtube.com/watch?v=2jqok-WgelI)
 
 &emsp; * [CRUD REST API using Node , Express & MongoDB](https://youtu.be/eYVGoXPq2RA)  
 
