@@ -257,7 +257,9 @@ API’s BASED ON ROLES:
 
 &emsp; * [Build A Node.js API Authentication With JWT Tutorial, Joi Validation](https://www.youtube.com/watch?v=2jqok-WgelI)
 
-&emsp; * [CRUD REST API using Node , Express & MongoDB](https://youtu.be/eYVGoXPq2RA)  
+&emsp; * [CRUD REST API using Node , Express & MongoDB](https://youtu.be/eYVGoXPq2RA)  | [MongoDB Tutorial](https://www.youtube.com/watch?v=ofme2o29ngU)
+
+
 
 &emsp; * [Create A Paginated API With Node.js](https://www.youtube.com/watch?v=ZX3qt0UWifc)
 
